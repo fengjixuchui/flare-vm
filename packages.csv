@@ -22,9 +22,8 @@ burp.free.fireeye,Creates a shortcut in the Web Application directory for BurpSu
 burp.free.flare,Creates a shortcut in the Web Application directory for BurpSuite Free Edition, common.fireeye - https://chocolatey.org/packages//burp-suite-free-edition, Web Application, https://portswigger.net/burp, cinst -y burp.free.flare
 bytecode-viewer.flare,A Java 8+ Jar & Android APK Reverse Engineering Suite, common.fireeye - https://chocolatey.org/packages//javaruntime, Java, https://bytecodeviewer.com/, cinst -y bytecode-viewer.flare
 bytehist.fireeye,A tool for generating byte-usage-histograms for all types of files with a special focus on binary executables in PE-format (Windows), , Utilities, https://cert.at/downloads/software/bytehist_en.html, cinst -y bytehist.fireeye
-capa.fireeye, capa detects capabilities in executable files, commom.fireeye, Utilities, https://github.com/fireeye/capa, cinst -y capa.fireeye,,,
+capa.fireeye, capa detects capabilities in executable files, commom.fireeye, Utilities, https://github.com/fireeye/capa, cinst -y capa.fireeye
 CheckPlease.fireeye,Sandbox evasion modules, , Evasion,https://github.com/Arvanaghi/CheckPlease, cinst -y CheckPlease.fireeye
-citrix-receiver.fireeye,Creates a Citrix shortcut in the Networking Tools folder and disables Citrix auto start, common.fireeye - https://chocolatey.org/packages//citrix-receiver, Networking, http://www.citrix.com/downloads/citrix-receiver/windows/, cinst -y citrix-receiver.fireeye
 cmder.fireeye,Creates a shortcut in the Utilities directory - pins cmder to taskbar - and changes default ls alias to deconflict with unxUtils package, common.fireeye - https://chocolatey.org/packages//cmder, Utilities, http://cmder.net/, cinst -y cmder.fireeye
 cmdermini.flare,Creates a shortcut in the Utilities directory - pins cmder to taskbar - and changes default ls alias to deconflict with unxUtils package, common.fireeye - https://chocolatey.org/packages//cmdermini, Utilities, http://cmder.net/, cinst -y cmdermini.flare
 common.fireeye,Fire Eye common shared library, , Utilities, , cinst -y common.fireeye
@@ -137,3 +136,4 @@ ncat.flare,Netcat utility, , Net, https://nmap.org/ncat/, cinst -y ncat.flare
 neo4j-community.fireeye,Installs start/stop scripts for Neo4j in the Utilities folder and disables auto start for Neo4j, common.fireeye - https://chocolatey.org/packages//jdk8 - https://chocolatey.org/packages//neo4j-community, Utilities, http://neo4j.com/, cinst -y neo4j-community.fireeye
 NetRipper.fireeye,NetRipper - Smart traffic sniffing for penetration testers, , Information Gathering,https://github.com/NytroRST/NetRipper, cinst -y NetRipper.fireeye
 NetshHelperBeacon.fireeye,Example DLL to load from Windows NetShell, , Exploitation,https://github.com/outflanknl/NetshHelperBeacon, cinst -y NetshHelperBeacon.fireeye
+UnAutoIt.fireeye, The Cross Platform AutoIt extractor, common.fireeye, Utilities, https://github.com/x0r19x91/UnAutoIt, cinst -y UnAutoIt.fireeye
